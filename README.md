@@ -7,7 +7,8 @@
 
 ## 🖼️ Главная страница
 
-![MyTeam Main Page](https://frolicking-gelato-6efb86.netlify.app/assets/images/preview.png)
+![MyTeam Main Page](![image](https://github.com/user-attachments/assets/6ee0e996-1745-44e6-bef8-8dae7fe198e6)
+)
 
 > Скриншот демонстрирует современную вёрстку, акцент на типографику и цвета.
 
