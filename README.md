@@ -7,7 +7,7 @@
 
 ## 🖼️ Главная страница
 
-Main Page image (![image](https://github.com/user-attachments/assets/0754f47a-4e3f-47a1-8d36-e505376a1dbf)
+Main Page ![image](https://github.com/user-attachments/assets/0754f47a-4e3f-47a1-8d36-e505376a1dbf)
 
 
 > Скриншот демонстрирует современную вёрстку, акцент на типографику и цвета.
