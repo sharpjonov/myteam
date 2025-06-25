@@ -7,8 +7,8 @@
 
 ## 🖼️ Главная страница
 
-![MyTeam Main Page](![image](https://github.com/user-attachments/assets/6ee0e996-1745-44e6-bef8-8dae7fe198e6)
-)
+![MyTeam Main Page](![image](https://github.com/user-attachments/assets/0754f47a-4e3f-47a1-8d36-e505376a1dbf)
+
 
 > Скриншот демонстрирует современную вёрстку, акцент на типографику и цвета.
 
